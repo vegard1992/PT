@@ -1,0 +1,2 @@
+https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-(Part-I)
+http://corysimon.github.io/articles/uniformdistn-on-sphere/
