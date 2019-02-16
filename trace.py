@@ -42,7 +42,7 @@ def grab_kernel(kernel_path):
     return kernel
 
 def main():
-    w, h = 1024, 768
+    w, h = 900, 1600
     platform, context, queue = cl_init()
 
     kernel = grab_kernel("kernel.cl")
